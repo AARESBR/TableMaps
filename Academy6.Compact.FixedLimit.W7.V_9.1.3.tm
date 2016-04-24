@@ -53,7 +53,7 @@ r$c0cardface3suit    376 221 386 232   ffffff  120 T2
 r$c0cardface4nocard  419 261 420 261   dadada   -1 C
 r$c0cardface4rank    419 210 429 221   ffffff  120 T2
 r$c0cardface4suit    419 221 429 232   ffffff  120 T2
-r$c0limits           610  29 763  39 ff8cbeff    0 T2
+r$c0limits           583  29 763  39 ff8cbeff    0 T2
 r$c0pot0             137 244 184 254 ff00ffff   10 T3
 r$c0pot0chip00       355 298 376 305        0    0 H1
 r$c0pot0chip01       355 295 376 302        0    0 H1
@@ -277,20 +277,27 @@ t1$l ffe fff 1
 t1$k fff fff 38 78 fc cf 83 1
 t1$k fff fff 38 78 fe cf 83 1
 t1$h fff fff e0 c0 e0 ff 7f
+t2$. 1
 t2$s 12 29 29 25 12
 t2$a 16 29 29 2a 1f
 t2$e 1e 29 29 29 1a
 t2$1 20 40 ff
 t2$t 20 ff 21
 t2$: 21
+t2$5 32 d1 91 91 8e
 t2$/ 3 3c c0
 t2$G 3c 42 81 81 89 4a c
 t2$m 3f 10 20 1f 10 20 1f
 t2$n 3f 10 20 20 1f
 t2$2 41 83 85 89 71
+t2$3 42 81 91 91 6e
 t2$S 62 91 91 89 89 46
+t2$8 6e 91 91 91 6e
 t2$g 79 85 85 49 fe
+t2$0 7e 81 81 81 7e
+t2$6 7e 91 91 91 4e
 t2$i bf
+t2$4 c 34 44 ff 4
 t2$$ c4 122 1ff 122 9c
 t2$L ff 1 1 1 1
 t2$k ff 8 16 21
